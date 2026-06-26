@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Алисюнер</string>
+    <string name="nav_tuner">Тюнер</string>
+    <string name="nav_metronome">Метроном</string>
+    <string name="nav_chords">Аккорды</string>
+    <string name="nav_learn">Уроки</string>
+    <string name="nav_arranger">AI</string>
+</resources>
